@@ -10,6 +10,6 @@
 - Hardhat
 - Pinata
 - Alchemy
-- Web3
+- Alchemy-web3
 
 ---

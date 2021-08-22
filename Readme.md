@@ -7,9 +7,8 @@
 - Truffle
 - Babel
 - Ganache
-- Chai
-- React-Bootstrap
-- Bootstrap
-- web3
+- Hardhat
+- Pinata
+- Alchemy
 
 ---

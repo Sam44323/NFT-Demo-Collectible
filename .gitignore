@@ -12,6 +12,9 @@
 # production
 /build
 
+/artifacts
+/cache
+
 # misc
 ..gpg
 .DS_Store

@@ -13,7 +13,6 @@
 /build
 
 # misc
-/artifacts
 ..gpg
 .DS_Store
 .env

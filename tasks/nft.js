@@ -1,3 +1,3 @@
-import { task, types } from "hardhat/config";
-import { Contract } from "ethers";
-import { TransactionResponse } from "@ethersproject/abstract-provider";
+const { task, types } = require("hardhat/config");
+const { Contract } = require("ethers");
+const { TransactionResponse } = require("@ethersproject/abstract-provider");

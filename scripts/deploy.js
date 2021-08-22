@@ -3,7 +3,7 @@ const hre = require("hardhat");
 const main = async () => {
   // getting the contract factory
   const NFT = await hre.ethers.getContractFactory("NFT");
-
+  console.log("processing...");
   // Start deployment, returning a promise that resolves to a contract object
   const nft = await NFT.deploy();
   console.log("Contract deployed to address", nft.address);

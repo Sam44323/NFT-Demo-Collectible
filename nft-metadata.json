@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Minions"
+    },
+    {
+      "trait_type": "Language",
+      "value": "Banana"
+    }
+  ],
+  "description": "Worlds most funniest",
+  "image": "https://gateway.pinata.cloud/ipfs/QmbRAKi4LRQ5snYwdsY8HmZsbEKF6x8quNCwYwEiqGh43E",
+  "name": "MINIONS"
+}

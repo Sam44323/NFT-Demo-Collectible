@@ -6,6 +6,7 @@
 - Javascript
 - Babel
 - Openzeppelin
+- Ether
 - Hardhat
 - Pinata
 - Alchemy

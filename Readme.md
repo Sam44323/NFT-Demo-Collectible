@@ -11,5 +11,6 @@
 - Pinata
 - Alchemy
 - Alchemy-web3
+- EthersJS/Abstract-Provider
 
 ---

@@ -4,9 +4,8 @@
 
 - ReactJS
 - Javascript
-- Truffle
 - Babel
-- Ganache
+- Openzeppelin
 - Hardhat
 - Pinata
 - Alchemy

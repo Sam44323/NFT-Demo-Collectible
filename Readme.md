@@ -1,4 +1,4 @@
-# A simple crypto collectable for a practice
+# A simple crypto collectable for some practice
 
 **Tech-stack**
 
